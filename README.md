@@ -11,7 +11,7 @@ This project analyzes Medicare inpatient data to identify where hospital utiliza
 - Cost intensity varies independently of utilization, with states like Alaska (~$25K), Hawaii (~$22K), and California (~$22K) far exceeding low-cost states like Florida, Alabama, and Mississippi (~$13K), reflecting differences in reimbursement structure, geography, and case complexity—not volume alone
 - Combining cost and capacity reveals distinct system risk profiles: high-strain/high-cost states (e.g., New York, California) face compounded financial and capacity pressure, while high-strain/low-cost states (e.g., Florida) face operational strain at low margins—requiring targeted interventions such as value-based care vs capacity expansion
 
-![DRG Concentration](./VISUALIZATIONS/DRG_Concentration.png)
+![DRG Concentration](./VISUALIZATIONS/DRG_Discharge_Volume1.png)
 
 *Figure: A small subset of DRGs drives the majority of inpatient utilization, highlighting structural concentration in healthcare demand.*
 ### Core Insight
