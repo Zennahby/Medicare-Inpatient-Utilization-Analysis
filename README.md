@@ -29,7 +29,9 @@ Hospital strain is not driven by demand alone—it emerges from how care is conc
 
 ## Why This Project Matters
 Medicare inpatient risk is often assessed using total discharges or total spend, which obscures where capacity strain and cost pressure actually originate.
+
 This project analyzes CMS Inpatient Prospective Payment System (IPPS) data to identify where inpatient utilization, bed capacity pressure, and cost intensity are **structurally concentrated**—separating volume effects from true utilization intensity and cost drivers.
+
 The goal is not reporting totals, but enabling **targeted, high-leverage decision-making** for healthcare payers, providers, and strategy teams.
 
 
@@ -41,7 +43,7 @@ This project was designed as a **decision-focused analytics portfolio**, demonst
 - Healthcare domain judgment (utilization ≠ inefficiency)  
 - Multi-level analysis across DRG, provider, and state perspectives  
 - Executive-level storytelling grounded in defensible methodology  
----
+
 
 ## Analytical Structure
 The analysis is intentionally structured across three complementary levels:
@@ -65,7 +67,7 @@ Normalizes utilization and cost by population to reveal:
 - Geographic variation in inpatient risk  
 
 Each level answers a **distinct decision question** and builds on the previous one.
----
+
 
 ## Core Metrics
 The analysis centers on a small set of decision-relevant metrics:
@@ -75,14 +77,14 @@ The analysis centers on a small set of decision-relevant metrics:
 - **Average Medicare Payment per Discharge** – cost intensity per hospitalization  
 
 Formal definitions and interpretation guardrails are documented in `Metric_Definitions.md`.
----
+
 
 ## Data & Tools
 - **Primary Data Source:** CMS Medicare IPPS Inpatient Data (2019–2023)  
 - **Tools:** SQL, Google BigQuery, Power BI  
 
 SQL scripts, data validation logic, and visualization artifacts are fully documented to ensure transparency and reproducibility.
----
+
 
 ## Repository Guide
 Recommended reading order:
