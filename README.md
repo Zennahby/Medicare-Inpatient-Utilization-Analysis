@@ -26,15 +26,12 @@ These findings highlight that effective healthcare interventions must target **w
 
 ### Core Insight
 Hospital strain is not driven by demand alone—it emerges from how care is concentrated across conditions, providers, and geographies, requiring targeted rather than uniform system interventions.
----
 
 ## Why This Project Matters
 Medicare inpatient risk is often assessed using total discharges or total spend, which obscures where capacity strain and cost pressure actually originate.
-
 This project analyzes CMS Inpatient Prospective Payment System (IPPS) data to identify where inpatient utilization, bed capacity pressure, and cost intensity are **structurally concentrated**—separating volume effects from true utilization intensity and cost drivers.
-
 The goal is not reporting totals, but enabling **targeted, high-leverage decision-making** for healthcare payers, providers, and strategy teams.
----
+
 
 ## What This Project Demonstrates
 This project was designed as a **decision-focused analytics portfolio**, demonstrating:
